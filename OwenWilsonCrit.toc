@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: OwenWilsonCrit
+## Author: toinetoine
+## Notes: Damage critical strikes play a random Owen Wilson clip of him saying "wow"
+## OptionalDeps:
+## Dependencies:
+OwenWilsonCrit.lua
+OwenWilsonCrit.xml
